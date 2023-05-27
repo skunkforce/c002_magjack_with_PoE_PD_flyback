@@ -168,7 +168,9 @@
         0.0,
         0.127,
         0.2,
-        0.5
+        0.5,
+        1.0,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -485,8 +487,16 @@
       ""
     ],
     [
-      "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "03f5896e-54aa-4f2a-ae36-0784ed9a7abd",
+      "rectifier"
+    ],
+    [
+      "e53f4be2-463e-4465-a620-7bfbc0bdf37f",
+      "Controller"
+    ],
+    [
+      "c5ffe30d-7e51-4dad-b268-ea446309615a",
+      "magjack"
     ]
   ],
   "text_variables": {}

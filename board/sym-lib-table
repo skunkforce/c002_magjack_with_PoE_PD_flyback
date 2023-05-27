@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "put_on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/put_on_edge.kicad_sym")(options "")(descr ""))
+  (lib (name "b033")(type "KiCad")(uri "${KIPRJMOD}/b033.kicad_sym")(options "")(descr ""))
+  (lib (name "b135")(type "KiCad")(uri "${KIPRJMOD}/b135.kicad_sym")(options "")(descr ""))
 )
