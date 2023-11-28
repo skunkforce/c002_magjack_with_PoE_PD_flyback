@@ -16,3 +16,6 @@
 [submodule "b134_100V_215ma_bridge_rectifier_BAV99"]
 	path = b134_100V_215ma_bridge_rectifier_BAV99
 	url = git@github.com:skunkforce/b134_100V_215ma_bridge_rectifier_BAV99.git
+[submodule "b121_5v_to_3.3v_2A_LDO_LD39200PU"]
+	path = b121_5v_to_3.3v_2A_LDO_LD39200PU
+	url = git@github.com:skunkforce/b121_5v_to_3.3v_2A_LDO_LD39200PU.git
