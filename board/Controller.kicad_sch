@@ -1806,7 +1806,7 @@
     (property "Value" "220uF" (at 258.7752 73.533 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.9" (at 256.54 72.39 0)
+    (property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9" (at 256.54 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 256.54 72.39 0)
