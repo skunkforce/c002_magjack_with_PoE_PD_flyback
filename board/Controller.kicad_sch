@@ -1517,6 +1517,12 @@
     (property "Datasheet" "~" (at 149.86 90.17 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MPN" "1N4148WS" (at 149.86 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C2128" (at 149.86 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 480e2215-0440-4c25-b30c-e7abdd527792))
     (pin "2" (uuid bb7e4f65-7f78-41ce-8d52-8764303c47f1))
     (instances
