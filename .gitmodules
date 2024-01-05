@@ -1,3 +1,21 @@
 [submodule "put_on_edge"]
 	path = put_on_edge
 	url = https://github.com/skunkforce/put_on_edge
+[submodule "b086_magjack_1000BASE-T_PoE-_A70-112-331N126"]
+	path = b086_magjack_1000BASE-T_PoE-_A70-112-331N126
+	url = git@github.com:skunkforce/b086_magjack_1000BASE-T_PoE-_A70-112-331N126.git
+[submodule "b012_PoE_rectifier_MB10FTR"]
+	path = b012_PoE_rectifier_MB10FTR
+	url = git@github.com:skunkforce/b012_PoE_rectifier_MB10FTR.git
+[submodule "b033_PoE_PD_DCDC_isolated_flyback_MP8007"]
+	path = b033_PoE_PD_DCDC_isolated_flyback_MP8007
+	url = git@github.com:skunkforce/b033_PoE_PD_DCDC_isolated_flyback_MP8007.git
+[submodule "b135_019_to_magjack_100BASE-T_PoE_LPJ4265BDNL"]
+	path = b135_019_to_magjack_100BASE-T_PoE_LPJ4265BDNL
+	url = git@github.com:skunkforce/b135_019_to_magjack_100BASE-T_PoE_LPJ4265BDNL.git
+[submodule "b134_100V_215ma_bridge_rectifier_BAV99"]
+	path = b134_100V_215ma_bridge_rectifier_BAV99
+	url = git@github.com:skunkforce/b134_100V_215ma_bridge_rectifier_BAV99.git
+[submodule "b121_5v_to_3.3v_2A_LDO_LD39200PU"]
+	path = b121_5v_to_3.3v_2A_LDO_LD39200PU
+	url = git@github.com:skunkforce/b121_5v_to_3.3v_2A_LDO_LD39200PU.git
